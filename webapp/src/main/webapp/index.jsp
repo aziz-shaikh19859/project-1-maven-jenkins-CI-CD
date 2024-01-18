@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Jenkinsfile-maven project-1 </h1>
+    <h1>Jenkinsfile-maven project-1 host manager </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
